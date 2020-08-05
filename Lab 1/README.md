@@ -1,19 +1,31 @@
-## Pre-requisites: (Read before you proceed)
-1. Use Chrome Browser for this lab 
+# Using the AWS DeepComposer Music studio to create tracks 
+
+The AWS DeepComposer music studio allows you to create music using trained models. To create your next masterpiece 
+you can record a custom input track, use a sample input track, or import a .midi track. 
+
+After choosing the **Source of input melody** you can start generating compositions. 
+
+## Getting started 
+Browser support for the AWS DeepComposer console varies. We *recommend* using Chrome for this lab. If you want to know
+more about which features are supported by different browsers check out the [Browser support documenation](https://docs.aws.amazon.com/deepcomposer/latest/devguide/browser-support.html). 
+
+>**Note** The exercises in this lab assume you've signed in to the AWS DeepComposer console. To use the AWS DeepComposer
+>console and other AWS services, you need an AWS account. If you don't have an account, see [aws.amazon.com](https://aws.amazon.com/)
+>and choose **Create and AWS account**. For detailed instructions, see [Create and Activate an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)  
+
+### Exploring the AWS DeepComposer music studio 
+
+1. [AWS DeepComposer console](https://console.aws.amazon.com/deepcomposer)
+
+2. Open the navigation pane, choose **Music studio**
+
+3.  Choose &#9658; to play the default melody.
+![music-studio-press-play](images/lab1-press-play.png)
+
+4. 
 
 
-## Access AWS DeepComposer console:
 
-Click on Deepcomposer link to get started: https://us-east-1.console.aws.amazon.com/deepcomposer
-
-![access-console](images/lab1-access-console.png)
-
-Enter AWS account ID, IAM Username and Password provided 
-
-Click Sign In
-
-**Note- You must access the console in N.Virginia (us-east-1) AWS region** You can use the dropdown to select the correct region.
-![aws-region](images/aws-region.jpg)
 
 ## Get Started:
 ![music-studio](images/music-studio.jpg)
