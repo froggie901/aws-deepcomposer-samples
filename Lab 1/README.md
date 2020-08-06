@@ -13,34 +13,64 @@ more about which features are supported by different browsers check out the [Bro
 >console and other AWS services, you need an AWS account. If you don't have an account, see [aws.amazon.com](https://aws.amazon.com/)
 >and choose **Create and AWS account**. For detailed instructions, see [Create and Activate an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)  
 
-### Exploring the AWS DeepComposer music studio 
+### Exploring the AWS DeepComposer music studio, make your first composition  
 
-1. [AWS DeepComposer console](https://console.aws.amazon.com/deepcomposer)
+1. Open the [AWS DeepComposer console](https://console.aws.amazon.com/deepcomposer)
 
-2. Open the navigation pane, choose **Music studio**
+2. Open the navigation pane (&#9776;), choose **Music studio**
 
-3.  Choose &#9658; to play the default melody.
+3. Choose &#9658; to play the default melody.
 ![music-studio-press-play](images/lab1-press-play.png)
 
-4. 
+4. Choose **Generative Adversarial Network** from the **Model Parameters** card under **Generative AI technique**
+
+5. Choose **Generate composition** to create a new composition
+
+6. Choose &#9658; to listen to your new AI generative musical composition
+
+### Changing the source of your input melody
+The AWS DeepComposer supports uploading custom input melodies and recording custom melodies.
+
+#### Recording a custom input melody 
+Before recording a custom melody you can enable several settings to help make recording easier. 
+To change your settings, choose the settings icon (&#x2699;)
+    - **Metronome** will enable/disable a metronome being played while you are recording your melody. One the slider is enabled, you can adjust the metronome on the Music studio console.  
+    - **Hot Keys** will allow you to use your computers keyboard when you are recording your melody 
+    - **Countdown** enables a 5 second countdown before recording your melody 
+
+1. Choose &#x25cf; to start recording a *custom melody*
+
+2. When finished, choose &#9632;
+
+3. To trim an unwanted section of the input melody, choose one of the handles on the sides of the track, and drag it to remove the unwanted section.
+
+4. Choose **Generative Adversarial Network** from the **Model Parameters** card under **Generative AI technique**
+>**NOTE
+
+5. Choose &#9658; to listen to your new AI generative musical composition
+    
+    
+    
+ ![settings-icon](images/setting-icon.png) 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+![music-studio-press-record](images/lab1-press-record.png)
 
 
 
 
-## Get Started:
-![music-studio](images/music-studio.jpg)
 
-Click **Music Studio** from the left navigation menu
 
-![play-default](images/lab1-play-default.PNG)
 
-Click *play* to play the default input melody
-
-![generate-composition](images/lab1-generate-composition.PNG)
-
-Click **Generate composition** to generate a composition. AI generated composition will be created
-
-Click *play* to play the new AI generated musical composition
 
 ## Input melody:
 
