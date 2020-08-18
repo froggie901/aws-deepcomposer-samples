@@ -1,4 +1,4 @@
-# Lab 2 - Train a custom GAN model
+#Train a custom GAN model
 
 ## Goal
 
