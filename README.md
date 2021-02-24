@@ -8,14 +8,9 @@ Welcome to AWS DeepComposer. This repository includes:
 
 ## [Training a Transformer-XL model](transformer-xl)
 
-
-## License
-
-<<<<<<< HEAD
-
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-=======
+
 Licensing varies between subdirectories. Check each subdirectory for its corresponding license.
->>>>>>> upstream/master
+
