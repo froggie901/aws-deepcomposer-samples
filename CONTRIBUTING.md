@@ -56,6 +56,7 @@ If you discover a potential security issue in this project we ask that you notif
 
 ## Licensing
 
-Licensing varies between subdirectories. See the [LICENSE](LICENSE) file for our different subfolder projects' licensing. We will ask you to confirm the licensing of your contribution. 
+Licensing varies between subdirectories. See the [LICENSE](LICENSE) file for our different subfolder projects' licensing. 
+We will ask you to confirm the licensing of your contribution. 
 
 We may ask you to sign a [Contributor License Agreement (CLA)](http://en.wikipedia.org/wiki/Contributor_License_Agreement) for larger changes.

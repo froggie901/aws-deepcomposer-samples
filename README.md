@@ -14,7 +14,7 @@ understand and use generative AI models.
 
 ## Table of Contents 
 
-### [Getting started in AWS DeepComposer sample repository](reinvent-labs)
+### [Getting started in AWS DeepComposer sample repository](getting-started)
 ### [Training a Generative Adversarial Network (GAN) model](reinvent-labs/lab-2)
 ### [Training an autoregressive convolutional neural network(AR-CNN) model](ar-cnn)
 ### [Training a Transformer-XL model](transformer-xl)
