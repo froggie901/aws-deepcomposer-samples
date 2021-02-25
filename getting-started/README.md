@@ -22,8 +22,8 @@ For more information about getting started with AWS DeepComposer see the table o
 ### [Getting started with AWS DeepComposer (*AWS Documentation*)](https://docs.aws.amazon.com/deepcomposer/latest/devguide/get-started.html)
 ### [Training model in the AWS DeepComposer console (*AWS Documentation*)](https://docs.aws.amazon.com/deepcomposer/latest/devguide/get-started-custom-model.html)
 ### [Evaluating a model trained the AWS DeepComposer console (*AWS Documentation*)](https://docs.aws.amazon.com/deepcomposer/latest/devguide/get-started-learn-from-pre-trained-models.html)
-### [Loss Functions for GAN architecture](Loss-functions.md)
-### [Music Terminologies Starter](Music-terminologies.md)
+### [Loss functions for the GAN architecture](Loss-functions.md)
+### [Music terminologies starter](Music-terminologies.md)
 ### [re:Invent 2019 AWS DeepComposer workshop presentation](reinvent-workshop-deck)
 
 ## License

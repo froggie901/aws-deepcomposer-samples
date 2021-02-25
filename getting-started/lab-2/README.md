@@ -1,4 +1,14 @@
-# Lab 2 - Train a custom GAN model
+# Training a custom Generative adversarial network (GAN) model
+
+In this directory you will find the files required to train a custom GAN model using a jupyter notebook. You can run this
+project 
+
+**Note** 
+> To use the AWS DeepComposer console and other AWS services, you need an AWS account. If you don't have an account, 
+go to aws.amazon.com and choose **Create an AWS Account**. For detailed instructions, see [Create and Activate an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/).
+
+>As a best practice, you should also create an AWS Identity and Access Management (AWS IAM) user with administrator
+permissions and use that user for all work that doesn’t require root credentials. 
 
 ## Goal
 
@@ -15,6 +25,14 @@ As part of this lab, you will learn to build a custom GAN architecture and train
 Using a ml.c5.4xlarge, the entire exercise take 3-4 hrs to run. Please see the [Amazon SageMaker pricing](https://aws.amazon.com/sagemaker/pricing/) for details. 
 
 ## Setup
+
+1. Launch SageMaker console 
+2. Choose Notebook instance
+3. choose create notebook instance 
+4. Name
+5. Notebook instance type `ml.c5.4xlarge`
+6. IAM use or create a new role. (what add'l information would be good here)
+7. 
 
 First we create the Amazon SageMaker notebook instance.
 
