@@ -1,7 +1,7 @@
 # Training a custom Generative adversarial network (GAN) model
 
 In this directory you will find the files required to train a custom GAN model using a jupyter notebook. You can run this
-project 
+project. 
 
 **Note** 
 > To use the AWS DeepComposer console and other AWS services, you need an AWS account. If you don't have an account, 
